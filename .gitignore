@@ -1,0 +1,7 @@
+node_modules
+public
+public/images/embroiderys
+public/images/profiles
+coverage
+server/.DS_Store
+.DS_Store
